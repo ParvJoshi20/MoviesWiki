@@ -12,7 +12,7 @@ MoviesWIki is a movie search application built with React that allows users to e
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/MovieLand.git
+   git clone https://github.com/ParvJoshi20/MoviesWiki
    ```
 
 2. **Install Dependencies:**
