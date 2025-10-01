@@ -17,7 +17,7 @@ MoviesWIki is a movie search application built with React that allows users to e
 
 2. **Install Dependencies:**
    ```bash
-   cd MovieLand
+   cd MoviesWiki
    npm install
    ```
 
